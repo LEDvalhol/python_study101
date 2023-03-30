@@ -3,7 +3,7 @@
 + Encapsulate Logic with Functions
 + Scope
 + Accepting User Input
-- - Conditionals (if  else) and Boolean Data Type
++ Conditionals (if  else) and Boolean Data Type
 - - Error Handling with Try  Except
 - - While Loops
 - - Lists and For Loops
