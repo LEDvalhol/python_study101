@@ -12,3 +12,4 @@
 - - Built-In Functions
 - - Dictionary Data Type
 - - Modularize projects with Modules
+validate and execute

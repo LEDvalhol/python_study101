@@ -7,8 +7,6 @@ def days_to_units(num_of_days):
         return f"{num_of_days} days are {num_of_days * calculations_to_units} {name_of_units}"
     elif num_of_days == 0:
         return "You entered a zero, please enter a valid positive number"
-    else:
-        return "Negative number, no conversion for you"
 
 
 user_input = input("Hey user, enter number of days and I will convert it for you!\n")
@@ -18,6 +16,3 @@ if user_input.isdigit():
     print(calculated_value)
 else:
     print("Your input is not a number. Please, provide a valid entry.")
-
-
-
